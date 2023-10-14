@@ -1,2 +1,2 @@
 # vending-machine
-cool machine
+A simple simulation of a vending machine
